@@ -5,3 +5,5 @@ Advanced animations extension:
 - Different animations can be played for certain groups independently
 - Transition between animations can be called for picked bone groups independently
 - Transition can move your bones to a start frame, end frame or any custom frame of the picked animation. An expression to find out frames amount for a certain animation is included
+
+Video example: https://www.youtube.com/watch?v=6tyYSG17OJY
